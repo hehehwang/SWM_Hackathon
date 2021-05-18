@@ -8,6 +8,14 @@
 
 
 
+## 해커톤 3등 달성!
+![img](https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/achievement.png?raw=true)
+
+<center>🎉 🎉 🎉 🎉 🎉</center>
+
+
+
+
 
 
 ##  산책이 가고 싶지 않으신가요?
@@ -28,7 +36,7 @@
 
 
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F679d9589-5cbd-471e-8eae-d8582f4b1ec9%2FUntitled.png?table=block&id=628c96d3-ebe3-4423-a45c-a27281bb03dd&width=3890&userId=&cache=v2" alt="한강 대학생 실종" style="zoom:33%;" />
+<img src="https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/article1.png?raw=true" alt="한강 대학생 실종" style="zoom:33%;" />
 
 
 
@@ -38,7 +46,7 @@
 
 
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3db70eca-cd9e-413e-849b-250f4b75abfe%2FUntitled.png?table=block&id=6b549ace-9067-48c2-9551-5ff09f22b767&width=4690&userId=&cache=v2)
+![img](https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/article2.png?raw=true)
 
 
 
@@ -86,7 +94,7 @@
 
 
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff72157e9-0e00-44ea-9a10-cc6718f40fec%2FUntitled.png?table=block&id=f2cc1126-15af-4ff6-9730-c1378cc6ad78&width=2400&userId=&cache=v2" alt="점수 산출 방법" style="zoom:50%;" />
+<img src="https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/learning.png?raw=true" alt="점수 산출 방법" style="zoom:50%;" />
 
 
 
@@ -94,7 +102,7 @@
 
 
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F55eea040-1a3a-44fe-b23d-379ce427964a%2FUntitled.png?table=block&id=e807bfaf-8b2b-43e0-9b98-6ba0226e1bbc&width=3770&userId=&cache=v2" alt="CCTV와 가로등" style="zoom:33%;" />
+<img src="https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/article3.png?raw=true" alt="CCTV와 가로등" style="zoom:33%;" />
 
  
 
@@ -106,11 +114,11 @@
 
 이 외에도 가로등과 CCTV에 관한 많은 연구가 상관관계를 증명하고 있습니다.
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe6f9bdb1-39a7-4ca2-b121-2aa05cb369eb%2FUntitled.png?table=block&id=b235ab60-ffcf-407d-a98c-5b7572fb1e7e&width=860&userId=&cache=v2" alt="씨씨티비"  />
+<img src="https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/paper1.png?raw=true" alt="씨씨티비"  />
 
 
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7fc707a8-0683-45cf-a3b6-209b6c3dcda4%2FUntitled.png?table=block&id=5909e331-d35d-49a3-a28d-7e61911d9841&width=1400&userId=&cache=v2" alt="조명빨" style="zoom:67%;" />
+<img src="https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/paper2.png?raw=true" alt="조명빨" style="zoom:67%;" />
 
 
 
@@ -128,7 +136,7 @@
 
 #### 메인 화면
 
-<img src="https://raw.githubusercontent.com/kimin0412/SWM_Hackathon/main/ReadmeImages/screen1.png?token=AJ3SV2MDKZYAWG2ZVZCM57TAU4BNK" alt="img" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/hehehwang/SWM_Hackathon/main/ReadmeImages/screen1.png?token=AJ3SV2MDKZYAWG2ZVZCM57TAU4BNK" alt="img" style="zoom:50%;" />
 
 
 
@@ -139,7 +147,7 @@
 
 #### 정보 화면
 
-![img](https://raw.githubusercontent.com/kimin0412/SWM_Hackathon/main/ReadmeImages/screen2.png?token=AJ3SV2O7UGFWQZICOHZQNM3AU4BUG)
+![img](https://raw.githubusercontent.com/hehehwang/SWM_Hackathon/main/ReadmeImages/screen2.png?token=AJ3SV2O7UGFWQZICOHZQNM3AU4BUG)
 
 - 각 공원별 마커를 눌러서 CCTV / 가로등 설치 대수와 종합 안전 점수를 확인할 수 있습니다.
 
@@ -165,7 +173,7 @@
 
 ## 추가 : 안전 점수 산출법
 
-![점수 산출 개요](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff72157e9-0e00-44ea-9a10-cc6718f40fec%2FUntitled.png?table=block&id=f2cc1126-15af-4ff6-9730-c1378cc6ad78&width=2400&userId=&cache=v2)
+![점수 산출 개요](https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/learning.png?raw=true)
 
 
 
@@ -176,13 +184,13 @@
 
 
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9e489778-41c5-4b6f-95d5-2cb0366d8113%2FUntitled.png?table=block&id=e6e9f8e8-24d2-4f6a-829b-65a465c2d1b0&width=2440&userId=&cache=v2)
+![img](https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/data01.png?raw=true)
 
 저희는 우선 [여기]( https://www.data.go.kr/data/3074462/fileData.do) 에서 범죄 데이터를 구했습니다.
 
 하지만 범죄별로 CCTV와 가로등의 개수에 영향을 받는 정도가 다르고, 위험도도 다르기 때문에 저희는 이에 가중치를 곱해주었습니다.
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fffa293aa-3fa7-43f3-8fcc-6f7f663429b2%2FUntitled.png?table=block&id=94642c64-dfda-4778-a6e6-08f4bce352a3&width=760&userId=&cache=v2)
+![img](https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/data02.png?raw=true)
 
 
 
@@ -192,7 +200,7 @@
 
 다음으로는 [공공 CCTV 위치 데이터](https://www.localdata.go.kr/lif/lifeCtacDataView.do?opnEtcSvcId=12_04_08_E)를 구했습니다
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff836cc62-e821-46dd-af95-9e10be9576b9%2FUntitled.png?table=block&id=dd998c2d-bb43-46e1-8601-d9f3899d6227&width=2380&userId=&cache=v2)
+![img](https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/data03.png?raw=true)
 
 특정 지역마다 설치된 CCTV 대수를 계산해서 입력값으로 사용했습니다.
 
@@ -200,7 +208,7 @@
 
 세 번째는 [가로등 설치 대수](https://www.data.go.kr/data/15017320/standard.do) 를 사용했습니다.
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3bc1504e-1c93-400e-89e4-f642457d6c72%2FUntitled.png?table=block&id=dd24fce3-cd7e-44f2-bc84-6595f84b1b6d&width=2450&userId=&cache=v2)
+![img](https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/data04.png?raw=true)
 
 각 지역별로 설치된 보안등 정보를 같은 방법으로 계산해 입력값으로 사용했습니다.
 
@@ -212,7 +220,7 @@
 
 
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F41f78d33-d86a-4fdf-89df-9ce6cacfdaba%2FUntitled.png?table=block&id=21557540-2e5b-4ff3-b533-140ced8a46d3&width=1430&userId=&cache=v2)
+![img](https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/data05.png?raw=true)
 
 전국 각 지역의 면적을 구글링을 통해.. 수집했습니다.
 
@@ -220,13 +228,13 @@
 
 주어진 데이터를 활용해 그래프를 그려 본 결과, CCTV/가로등과 범죄지수에 인과관계(선형 관계)가 있음을 확인할 수 있었습니다.
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffbd75464-24ff-4db1-8cd0-85b5a69e9282%2FUntitled.png?table=block&id=d669d0a6-7c85-4e76-ab1f-06261e14fa0c&width=1440&userId=&cache=v2)
+![img](https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/data06.png?raw=true)
 
 
 
 선형 관계가 있는 것을 확인했으니, 이제 다중선형회귀분석을 적용하면 위험도를 구하는 수식을 도출해낼 수 있습니다.
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F34bfbae1-fe5c-4c54-85a8-6c43b27c6000%2FUntitled.png?table=block&id=e4c88fd0-c22c-40d6-8b81-9605daf0680d&width=1360&userId=&cache=v2)
+![img](https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/data07.png?raw=true)
 
 
 
@@ -236,12 +244,12 @@
 
 
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F369ab33f-d69c-4689-8153-c9c1c161e5db%2FUntitled.png?table=block&id=004c481b-feec-4785-939c-36a10b7122ef&width=2370&userId=&cache=v2)
+![img](https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/data08.png?raw=true)
 
 
 
 이 식을 사용해 추정한 데이터로 분포도를 구한 결과, 실제로도 데이터의 인과관계가 있음을 확인할 수 있었습니다.
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F58337c6d-dbb9-4ef3-ad7d-7308a1846f09%2FUntitled.png?table=block&id=63983ee6-47df-48e8-9ac6-687b778154ff&width=1150&userId=&cache=v2)
+![img](https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/data09.png?raw=true)
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5547eda5-dd67-4a2f-9d80-31c3f29c107b%2FUntitled.png?table=block&id=22ac0bc9-8cba-4a8e-be03-063448537c4e&width=1140&userId=&cache=v2)
+![img](https://github.com/hehehwang/SWM_Hackathon/blob/main/ReadmeImages/data10.png?raw=true)
